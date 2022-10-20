@@ -231,6 +231,68 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
+--- !u!1001 &39724543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!4 &70718318 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 1798094543}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &82437742
 GameObject:
   m_ObjectHideFlags: 0
@@ -271,6 +333,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &98959333 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 2108478089}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &164809611
 GameObject:
   m_ObjectHideFlags: 0
@@ -330,6 +397,68 @@ Halo:
     serializedVersion: 2
     rgba: 4278255608
   m_Size: 1
+--- !u!1001 &165278374
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!4 &168020582 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 683206351}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &204296710
 GameObject:
   m_ObjectHideFlags: 0
@@ -373,6 +502,120 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &213553811
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!1001 &261917722
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 21.42
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
 --- !u!1 &286478004
 GameObject:
   m_ObjectHideFlags: 0
@@ -540,6 +783,11 @@ MonoBehaviour:
   spawnItem: {fileID: 1432041970}
   frequency: 1
   initialSpeed: 15
+--- !u!4 &408991514 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 1527920638}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &457437668
 GameObject:
   m_ObjectHideFlags: 0
@@ -599,6 +847,63 @@ MonoBehaviour:
   spawnItem: {fileID: 1127553622}
   frequency: 0.3
   initialSpeed: 15
+--- !u!1001 &460485860
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
 --- !u!1 &464816226
 GameObject:
   m_ObjectHideFlags: 0
@@ -1197,6 +1502,63 @@ Transform:
   m_Father: {fileID: 82437743}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &683206351
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -1482,6 +1844,11 @@ Transform:
   m_Father: {fileID: 82437743}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &893876639 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 213553811}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &957556338
 GameObject:
   m_ObjectHideFlags: 0
@@ -1601,10 +1968,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 35.151, y: 90, z: 0}
+--- !u!4 &1088545469 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 165278374}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1127553622 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6724158015579548333, guid: 48ec08a0309685b4bb1e3d64d786c491, type: 3}
   m_PrefabInstance: {fileID: 6724158014552797435}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1319672742 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 39724543}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1339498030
 GameObject:
@@ -1707,6 +2084,103 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7422308802712221289, guid: 96314de0585a4474a834a13b575a7991, type: 3}
   m_PrefabInstance: {fileID: 7422308801852837787}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1527920638
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!1 &1614150035
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1614150036}
+  m_Layer: 0
+  m_Name: Concert Peoples
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1614150036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1614150035}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1722861736}
+  - {fileID: 1088545469}
+  - {fileID: 1819987919}
+  - {fileID: 70718318}
+  - {fileID: 893876639}
+  - {fileID: 98959333}
+  - {fileID: 1902027501}
+  - {fileID: 168020582}
+  - {fileID: 408991514}
+  - {fileID: 1319672742}
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1651331627
 GameObject:
   m_ObjectHideFlags: 0
@@ -1803,6 +2277,11 @@ Transform:
   m_Father: {fileID: 82437743}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+--- !u!4 &1722861736 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 3441334194794991664}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1728882106
 GameObject:
   m_ObjectHideFlags: 0
@@ -1911,6 +2390,73 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1798094543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!4 &1819987919 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 261917722}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1902027501 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+  m_PrefabInstance: {fileID: 460485860}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1912965498
 GameObject:
   m_ObjectHideFlags: 0
@@ -2110,6 +2656,124 @@ MonoBehaviour:
   spawnItem: {fileID: 1127553622}
   frequency: 0.6
   initialSpeed: 15
+--- !u!1001 &2108478089
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+--- !u!1001 &3441334194794991664
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1614150036}
+    m_Modifications:
+    - target: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_Name
+      value: Concert Goer
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 24.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5478447800119887720, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990776332828196048, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
 --- !u!1001 &6724158014552797435
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2229,6 +2893,10 @@ PrefabInstance:
     - target: {fileID: 7422308802712221292, guid: 96314de0585a4474a834a13b575a7991, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7422308802712221295, guid: 96314de0585a4474a834a13b575a7991, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96314de0585a4474a834a13b575a7991, type: 3}

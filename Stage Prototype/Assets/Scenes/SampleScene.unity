@@ -2165,6 +2165,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Short Note
       objectReference: {fileID: 0}
+    - target: {fileID: 6724158015579548333, guid: 48ec08a0309685b4bb1e3d64d786c491, type: 3}
+      propertyPath: m_TagString
+      value: Note
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48ec08a0309685b4bb1e3d64d786c491, type: 3}
 --- !u!1001 &7422308801852837787

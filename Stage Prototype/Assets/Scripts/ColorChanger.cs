@@ -4,11 +4,15 @@ using UnityEngine;
 
 public class ColorChanger : MonoBehaviour  
 {
+    public Material[] material;
+    Renderer rend;
 
-
-    Material m_Material;
-    MeshRenderer my_renderer = GetComponent<MeshRenderer>();
-
+    public void Start()
+    {
+        rend = GetComponent<Renderer>();
+        rend.enabled = true;
+        rend.sharedMaterial = material[0];
+    }
 
     void OnTriggerEnter(Collider other)
     {
@@ -16,7 +20,8 @@ public class ColorChanger : MonoBehaviour
         {
 
             Debug.Log("Changing Color Now!");
-            
+            rend.sharedMaterial = material[1];
+
 
         }
 
@@ -24,6 +29,7 @@ public class ColorChanger : MonoBehaviour
         {
 
             Debug.Log("Changing Color Now 2!");
+            rend.sharedMaterial = material[3];
 
         }
 
@@ -31,6 +37,7 @@ public class ColorChanger : MonoBehaviour
         {
 
             Debug.Log("Changing Color Now 3!");
+            rend.sharedMaterial = material[2];
 
         }
 
@@ -38,6 +45,7 @@ public class ColorChanger : MonoBehaviour
         {
 
             Debug.Log("Changing Color Now! 4");
+            rend.sharedMaterial = material[4];
 
         }
     }

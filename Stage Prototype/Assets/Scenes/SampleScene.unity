@@ -769,10 +769,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 480280763}
   m_HandleRect: {fileID: 1452344466}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 1
+  m_MaxValue: 89
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 45
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -1213,6 +1213,7 @@ GameObject:
   - component: {fileID: 370215027}
   - component: {fileID: 370215026}
   - component: {fileID: 370215025}
+  - component: {fileID: 370215031}
   m_Layer: 0
   m_Name: Vocal
   m_TagString: Vocal
@@ -1326,6 +1327,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &370215031
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 370215024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4c3d04c10019e46a9782de777be752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mySlider: {fileID: 833586134}
+  yLimit: 45
 --- !u!1 &373443702
 GameObject:
   m_ObjectHideFlags: 0
@@ -1910,10 +1925,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 2026153739}
   m_HandleRect: {fileID: 785120373}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 1
+  m_MaxValue: 89
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 45
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -2007,6 +2022,7 @@ GameObject:
   - component: {fileID: 486492776}
   - component: {fileID: 486492775}
   - component: {fileID: 486492774}
+  - component: {fileID: 486492780}
   m_Layer: 0
   m_Name: Drummer
   m_TagString: Drummer
@@ -2120,6 +2136,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &486492780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 486492773}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4c3d04c10019e46a9782de777be752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mySlider: {fileID: 470471856}
+  yLimit: 45
 --- !u!1 &533452418
 GameObject:
   m_ObjectHideFlags: 0
@@ -2253,6 +2283,7 @@ GameObject:
   - component: {fileID: 550988845}
   - component: {fileID: 550988844}
   - component: {fileID: 550988843}
+  - component: {fileID: 550988849}
   m_Layer: 0
   m_Name: Bass
   m_TagString: Bass
@@ -2366,6 +2397,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &550988849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 550988842}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4c3d04c10019e46a9782de777be752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mySlider: {fileID: 1784918685}
+  yLimit: 45
 --- !u!1001 &568487780
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3758,10 +3803,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 2072977628}
   m_HandleRect: {fileID: 1093389523}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 1
+  m_MaxValue: 89
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 45
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -5831,6 +5876,7 @@ GameObject:
   - component: {fileID: 1487014201}
   - component: {fileID: 1487014202}
   - component: {fileID: 1487014204}
+  - component: {fileID: 1487014206}
   m_Layer: 0
   m_Name: Guitar
   m_TagString: Guitar
@@ -5915,7 +5961,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 80
+  m_Constraints: 16
   m_CollisionDetection: 0
 --- !u!114 &1487014202
 MonoBehaviour:
@@ -5970,6 +6016,20 @@ RectTransform:
   m_AnchoredPosition: {x: 19.38, y: 0.87}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1487014206
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1487014196}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4c3d04c10019e46a9782de777be752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mySlider: {fileID: 171466836}
+  yLimit: 45
 --- !u!1 &1526678076 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3842989445955457258, guid: 57a724f18e1d9ad4bac3edfd82e86368, type: 3}
@@ -7397,10 +7457,10 @@ MonoBehaviour:
   m_FillRect: {fileID: 1019513084}
   m_HandleRect: {fileID: 866444483}
   m_Direction: 0
-  m_MinValue: 0
-  m_MaxValue: 1
+  m_MinValue: 1
+  m_MaxValue: 89
   m_WholeNumbers: 0
-  m_Value: 0.5
+  m_Value: 45
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []

@@ -114,6 +114,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentHealth: 5
   damageAmount: 1
+  material:
+  - {fileID: 2100000, guid: c75c57daa20c4ac409a8470078e34cc6, type: 2}
+  - {fileID: 2100000, guid: 9a4cc3bf87f7d524bb24bf1e5c126aee, type: 2}
+  - {fileID: 2100000, guid: 80f6ee9e1b0500d47857e80a0c25eda0, type: 2}
+  - {fileID: 2100000, guid: 240090406bfa69d48b98f73d76bd66d1, type: 2}
+  - {fileID: 2100000, guid: 73eeeab9569eeac44a90ea1e2457ffdb, type: 2}
 --- !u!54 &3615585617695556930
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -8,6 +8,7 @@ public class DragObject : MonoBehaviour
 
     private float mZCoord;
 
+
     void OnMouseDown()
     {
         mZCoord = Camera.main.WorldToScreenPoint(gameObject.transform.position).z;

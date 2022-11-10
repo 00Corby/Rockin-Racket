@@ -4,13 +4,21 @@ using UnityEngine;
 
 public class Destroyer : MonoBehaviour
 {
+
+    public int currentHealth = 5;
+
+    public int damageAmount = 1;
+
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Note")
         {
-            
-            Destroy(gameObject);
+            currentHealth -= damageAmount;
 
+            if (currentHealth <= 0)
+            {
+                Destroy(gameObject);
+            }
         }
     }
 }

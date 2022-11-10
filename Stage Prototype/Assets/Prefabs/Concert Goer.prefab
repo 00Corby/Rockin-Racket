@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 3213527773894929735}
   - component: {fileID: 5990776332828196048}
   - component: {fileID: 1360901360510622342}
+  - component: {fileID: 3824267152891306826}
   - component: {fileID: 3615585617695556930}
   m_Layer: 0
   m_Name: Concert Goer
@@ -120,6 +121,19 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 80f6ee9e1b0500d47857e80a0c25eda0, type: 2}
   - {fileID: 2100000, guid: 240090406bfa69d48b98f73d76bd66d1, type: 2}
   - {fileID: 2100000, guid: 73eeeab9569eeac44a90ea1e2457ffdb, type: 2}
+--- !u!114 &3824267152891306826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3842989445955457258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7697f3fafedb9e047a7b221c198cb0e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  countText: {fileID: 0}
 --- !u!54 &3615585617695556930
 Rigidbody:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
     public Text countText;
 
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         SetScoreCount();
         count = 0;

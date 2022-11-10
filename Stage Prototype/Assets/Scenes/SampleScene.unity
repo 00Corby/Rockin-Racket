@@ -7822,7 +7822,7 @@ GameObject:
   - component: {fileID: 1762832754}
   - component: {fileID: 1762832753}
   m_Layer: 0
-  m_Name: Directional Light (1)
+  m_Name: Spot light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7842,8 +7842,8 @@ Light:
   m_Color: {r: 0.43719083, g: 0.4433962, b: 0.23215556, a: 1}
   m_Intensity: 5
   m_Range: 412.99335
-  m_SpotAngle: 30
-  m_InnerSpotAngle: 21.80208
+  m_SpotAngle: 32.7
+  m_InnerSpotAngle: 1
   m_CookieSize: 10
   m_Shadows:
     m_Type: 2
@@ -7898,7 +7898,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762832752}
   m_LocalRotation: {x: 0.70587164, y: -0.041775733, z: 0.46958676, w: 0.5286665}
-  m_LocalPosition: {x: -5.72, y: 29.01, z: 19.91}
+  m_LocalPosition: {x: -6.09, y: 29.47, z: 19.91}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

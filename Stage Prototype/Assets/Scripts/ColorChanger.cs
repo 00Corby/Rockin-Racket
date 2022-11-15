@@ -48,5 +48,13 @@ public class ColorChanger : MonoBehaviour
             rend.sharedMaterial = material[4];
 
         }
+
+        if (other.gameObject.tag == "Keys")
+        {
+
+            Debug.Log("Changing Color Now! 5");
+            rend.sharedMaterial = material[5];
+
+        }
     }
 }
